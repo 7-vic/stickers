@@ -81,3 +81,12 @@
 1784293938149_ypw6qn.png 猫猫·生气
 1784293914991_qgypeq.png 外星人·提问
 1784293885796_wh2msx.gif 猫猫·可爱
+xinteng.png 我心疼你(小奶猫)
+tucheng.png 你落一滴泪我屠一座城
+jiayou_gan.png 撸起袖子加油干
+wula.png 乌拉！
+wei_ni_jiayou.png 为你加油
+aizhe.png 挨着(两只小猫)
+wo_cuo_le.png 我知豆错了(原谅请扣1)
+zuo_wo_nvren.png 你到底做不做我的女人
+xi_han_ni.png 俺稀罕你
