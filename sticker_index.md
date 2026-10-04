@@ -90,3 +90,16 @@ aizhe.png 挨着(两只小猫)
 wo_cuo_le.png 我知豆错了(原谅请扣1)
 zuo_wo_nvren.png 你到底做不做我的女人
 xi_han_ni.png 俺稀罕你
+zan_mei_ni.png 赞美你
+xifu_bie_pa.png 媳妇别怕我保护你(瑟瑟发抖)
+baozhu_bu_sashou.png 抱住你不撒手
+bai_mao_pa_jian.png 白狗狗趴肩(无字)
+tietie_gou.png 贴贴(线条狗抱手)
+tietie_mao.png 贴贴贴贴(小猫)
+zuozuo.png 嘬嘬(两只猫)
+nianrenjing.png 果然我就是一个粘人精我摊牌了
+fuhun_haoma.png 复婚好吗孩子总哭
+xiangni_yiwanbian.png 想你一万遍了
+ni_xiang_wo_mei.png 泥想我莓！
+yao_qinzui.png 我要亲嘴
+wo_zai_xiangni.png 窝在想你 很想很想
